@@ -1,0 +1,20 @@
+.todo__list {
+    text-align: center;
+}
+.todo__item {
+    max-width: 500px;
+    background-color: rgb(231, 230, 230);
+    border: 1px solid rgb(211, 210, 210);
+}
+.todo__text {
+    max-width: 350px;
+    text-align: justify;
+    padding-right: 8px;
+}
+.delete__btn {
+    margin-left: 10px;
+    cursor: pointer;
+}
+.edit__btn {
+    cursor: pointer;
+}
